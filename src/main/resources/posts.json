@@ -1,0 +1,1 @@
+[{"id":1,"title":"Collection","content":"About collection","labels":[{"name":"Java","status":"ACTIVE"}],"status":"ACTIVE"},{"id":2,"title":"Stream API","content":"About Stream API","labels":[{"name":"Streams","status":"ACTIVE"}],"status":"DELETED"},{"id":3,"title":"Java Top","content":"I love Java","labels":[{"id":3,"name":"Java","status":"ACTIVE"}],"status":"ACTIVE"}]
