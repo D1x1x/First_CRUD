@@ -18,6 +18,9 @@ Stack
 
 
 Run
+
 Run Main.java in IntelliJ IDEA.
+
 Application data is stored in JSON files inside:
+
 src/main/resources
