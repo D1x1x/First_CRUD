@@ -1,5 +1,7 @@
 First CRUD
+
 Console CRUD application on Java with JSON file storage.
+
 Features
 - Create, read, update and delete writers
 - Create, read, update and delete posts
