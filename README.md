@@ -7,6 +7,7 @@ Features
 - Store data in JSON files
 - Soft delete using ACTIVE and DELETED statuses
 - Console menu for interacting with the application
+
 Stack
 - Java 21
 - Maven
@@ -14,6 +15,8 @@ Stack
 - Java IO/NIO
 - Stream API
 - JSON
+
+
 Run
 Run Main.java in IntelliJ IDEA.
 Application data is stored in JSON files inside:
